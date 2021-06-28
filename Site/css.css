@@ -1,0 +1,103 @@
+.header {
+  padding: 1% 0% 0% 1%;
+  margin: 0;
+}
+form{
+  float: left;
+  padding: 0%;
+  margin: 1% 1% 0 1%;
+  width: 75%;
+
+  font-size: 15px;
+}
+form p{
+  text-align: left;
+}
+table{
+  float:right;
+  width: 20%;
+  
+}
+h1{
+  font-weight: 400;
+  line-height: 1.2;
+}
+p{
+  font-size: 17px;
+  float: left;
+  display: block;
+  padding: 1%;
+  
+}
+h1, p{ 
+  margin-top: 0;
+  margin-bottom: 0.5rem;
+  text-align: center;
+}
+.header2 {
+  padding: 0% 0% 0% 30%;
+  margin: 0;  float: left;
+}
+.header2 a {
+
+  color: black;
+  text-align: center;
+  padding: 1% 2%;
+  text-decoration: none;
+  font-size: 17px;
+}
+.header2 a:hover {
+  background-color: #ddd;
+  color: black;
+}
+a{text-decoration: none;}
+a:visited {color: black;}
+a:hover {color: #ff0000;}
+a:active {color: #ffcc00;}
+a:link {color: black;}
+#lista {
+    font-family: Arial, Helvetica, sans-serif;
+    border-collapse: collapse;
+    float:right;
+    margin-right: 1%;
+} 
+#lista td, #lista th {
+    border: 1px solid #ddd;
+    padding: 1%;
+} 
+#lista tr:hover {background-color: #ddd;}
+#lista th {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    color: black;
+}
+#lista h5{
+  font-size: 12px;
+  text-align: center;
+}
+#bloco1{
+  padding: 1% 1% 0 0;
+  width: 96%;
+
+}
+iframe{
+  width: 24%;
+}
+#videos{
+  margin: 0;
+  padding: 1% 0 0 0;
+  width: 100%;
+  float: left;
+}
+.card {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  max-width: 300px;
+  margin: auto;
+  padding: 1%;
+  float: left;
+  text-align: center;
+}
+.titulo {
+  color: grey;
+  font-size: 18px;
+}
